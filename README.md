@@ -5,14 +5,15 @@ Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret
 
 ### Contact
 Having trouble with **TG proxies**?  
-Check info in <a href="tg://resolve?domain=Syncrets">my channel</a> or [write me directly]<a href="tg://resolve?domain=Glitch">write me directly</a>.
+Check actual info in [my channel](https://t.me/Syncrets) or [write me directly](https://t.me/Glitch).
 
 ---
 
 ### Donate
-Almost *beerware* license:
+Almost *Beerware* license:
 
-- [Bitcoin](bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy&label=tgproxy)
+- [Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic](bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy)  
+![Bitcoin](https://a-u.me/0/smzx7.png)
 - [PayPal](https://paypal.me/Arxat/20)
 
 ---
