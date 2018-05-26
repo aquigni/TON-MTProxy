@@ -6,11 +6,20 @@ Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret
 
 ---
 
+### Build your own proxy server
+- **MTProto proxy servers:**
+ - <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution by dotcypress</a>  
+ - [PHP version by danog](tg://resolve?domain=MadelineProto&post=348)  
+- **SOCKS5 proxy servers:**
+ - <a href="https://www.inet.no/dante/" target="_blank" alt="SOCKS5 Proxy">Dante by Inferno Nettverk A/S</a>  
+
+---
+
 ### Contact & Support
 Having trouble with **TG proxies**?  
 Check actual info in [my channel](tg://resolve?domain=Syncrets) or [write me directly](tg://resolve?domain=Glitch).  
 
-<a href="https://a-u.me/contact/" target="_blank" alt="Contact">Connect via other services.</a>
+<a href="https://a-u.me/contact/" target="_blank" alt="Contact">Contact me via other services.</a>
 
 ---
 
@@ -23,7 +32,8 @@ Almost *Beerware* license:
 - <a href="https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy=" target="_blank" alt="QIWI">QIWI</a>
 
 ---
+
 ### Changes
 - **SOCKS5** proxy port mapped to **123** *(default for NTP service)*
-- **MTProto** port mapped to **143** *(default for IMAP service)*.
-- Changed **MTProto** server backend from **PHP** to high speed **RUST/mio**.
+- **MTProto** port mapped to **143** *(default for IMAP service)*
+- Changed **MTProto** server backend from **PHP** to high speed **RUST/mio**
