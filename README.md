@@ -13,7 +13,11 @@ Check actual info in [my channel](tg://resolve?domain=Syncrets) or [write me dir
 Almost *Beerware* license:
 
 - [Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic](bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy)  
+
 ![Bitcoin](https://a-u.me/0/smzx7.png)
 - [PayPal](https://paypal.me/Arxat/20)
 
 ---
+### Changes
+- **SOCKS5** proxy port mapped to **123** *(default for NTP service)*
+- **MTProto** port mapped to **143** *(default for IMAP service)*. Changed server backend from **PHP** to high speed **RUST/mio**.
