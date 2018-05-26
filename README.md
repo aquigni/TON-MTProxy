@@ -19,7 +19,7 @@ Almost *Beerware* license:
 
 ![Bitcoin](https://a-u.me/0/smzx7.png)
 - [PayPal](https://paypal.me/Arxat/20)
-- [QIWI](<iframe src="https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy="></iframe>)
+- <iframe src="https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy=">QIWI</iframe>
 
 ---
 ### Changes
