@@ -5,7 +5,7 @@ Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret
 
 ### Contact
 Having trouble with **TG proxies**?  
-Check info in [my channel](tg://resolve?domain=Syncrets) or [write me directly](tg://resolve?domain=Glitch).
+Check info in <a href="tg://resolve?domain=Syncrets">my channel</a> or [write me directly]<a href="tg://resolve?domain=Glitch">write me directly</a>.
 
 ---
 
