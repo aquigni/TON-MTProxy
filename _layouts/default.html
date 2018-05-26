@@ -12,21 +12,17 @@
 	<section class="page-header">
 		<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
 		<h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-		{% if site.github.is_project_page %}
 		<a href="tg://socks?server=62.210.73.58&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI" class="btn">SOCKS5 / Stable</a>
 		<a href="tg://proxy?server=62.210.73.58&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd" class="btn">MTProto / Modern</a>
-		{% endif %}
 	</section>
 
 	<section class="main-content">
 		{{ content }}
 
 		<footer class="site-footer">
-			{% if site.github.is_project_page %}
 			<span class="site-footer-owner">
-				©&nbsp;2018–∞&nbsp;<a href="https://a-u.me/contact/">Glitch</a>
+				<a href="https://a-u.me/contact/">Glitch</a>&nbsp;©&nbsp;2018–∞
 			</span>
-			{% endif %}
 		</footer>
 	</section>
 
