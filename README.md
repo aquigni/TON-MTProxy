@@ -17,7 +17,7 @@ Check actual info in [my channel](tg://resolve?domain=Syncrets) or [write me dir
 ### Donate
 Almost *Beerware* license:
 
-- <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target=_blank>Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic</br>
+- <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target=_blank>Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic</a></br>
 ![](https://a-u.me/0/smzx7.png)</a>
 - <a href="https://paypal.me/Arxat/20" target=_blank>PayPal</a>
 - <a href="https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy=" target=_blank>QIWI</a>
