@@ -10,7 +10,7 @@ Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret
 Having trouble with **TG proxies**?  
 Check actual info in [my channel](tg://resolve?domain=Syncrets) or [write me directly](tg://resolve?domain=Glitch).  
 
-<a href="https://a-u.me/contact/" target=_blank alt="contact">Connect via other services.</a>
+<a href="https://a-u.me/contact/" target=_blank>Connect via other services.</a>
 
 ---
 
