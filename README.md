@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## List of *Glitched* MTProto & SOCKS5 Telegram proxies
+Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd) proxy and [old stable SOCKS5](tg://socks?server=62.210.73.58&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI) one to connect Telegram (and Telegram Open Network / Open Network in future).
 
-You can use the [editor on GitHub](https://github.com/aquigni/TGProxies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
+Having trouble with **TG proxies**?  
+Check info in [my channel](tg://resolve?domain=Syncrets) or [write me directly](tg://resolve?domain=Glitch).
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Donate
+Almost *beerware* license:
 
-```markdown
-Syntax highlighted code block
+- [Bitcoin](bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy&label=tgproxy)
+- [PayPal](https://paypal.me/Arxat/20)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aquigni/TGProxies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
