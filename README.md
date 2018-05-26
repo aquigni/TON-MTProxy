@@ -8,10 +8,10 @@ Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret
 
 ### Build your own proxy server
 - **MTProto proxy servers:**
- - <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution by dotcypress</a>  
- - [PHP version by danog](tg://resolve?domain=MadelineProto&post=348)  
+	- <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution by dotcypress</a>  
+	- [PHP version by danog](tg://resolve?domain=MadelineProto&post=348)  
 - **SOCKS5 proxy servers:**
- - <a href="https://www.inet.no/dante/" target="_blank" alt="SOCKS5 Proxy">Dante by Inferno Nettverk A/S</a>  
+	- <a href="https://www.inet.no/dante/" target="_blank" alt="SOCKS5 Proxy">Dante by Inferno Nettverk A/S</a>  
 
 ---
 
