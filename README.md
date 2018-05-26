@@ -10,18 +10,17 @@ Feel free to use [native MTProto](tg://proxy?server=62.210.73.58&port=143&secret
 Having trouble with **TG proxies**?  
 Check actual info in [my channel](tg://resolve?domain=Syncrets) or [write me directly](tg://resolve?domain=Glitch).  
 
-[Connect via other messengers.](https://a-u.me/contact)
+<a href="https://a-u.me/contact/" target=_blank>Connect via other services.</a>
 
 ---
 
 ### Donate
 Almost *Beerware* license:
 
-- [Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic](bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy)  
-
-![Bitcoin](https://a-u.me/0/smzx7.png)
-- [PayPal](https://paypal.me/Arxat/20)
-- [QIWI](https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy=)
+- <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target=_blank>Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic</br>
+![](https://a-u.me/0/smzx7.png)</a>
+- <a href="https://paypal.me/Arxat/20" target=_blank>PayPal</a>
+- <a href="https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy=" target=_blank>QIWI</a>
 
 ---
 ### Changes
