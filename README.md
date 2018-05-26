@@ -20,4 +20,5 @@ Almost *Beerware* license:
 ---
 ### Changes
 - **SOCKS5** proxy port mapped to **123** *(default for NTP service)*
-- **MTProto** port mapped to **143** *(default for IMAP service)*. Changed server backend from **PHP** to high speed **RUST/mio**.
+- **MTProto** port mapped to **143** *(default for IMAP service)*.
+- Changed **MTProto** server backend from **PHP** to high speed **RUST/mio**.
