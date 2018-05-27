@@ -30,7 +30,7 @@ Almost *Beerware* license:
 - <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin: 13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic</a>  
 <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a>
 - <a href="https://paypal.me/Arxat/20" target="_blank" alt="PayPal">PayPal</a>
-- <a href="https://ishop.qiwi.com/public/order/embed.action?from=553815&ccy=" target="_blank" alt="QIWI">QIWI</a>
+- <a href="https://ishop.qiwi.com/public/order/embed.action?from=553829&ccy=" target="_blank" alt="QIWI">QIWI</a>
 
 ---
 
