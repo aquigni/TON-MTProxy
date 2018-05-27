@@ -14,20 +14,17 @@ Changelog
 </summary>
 <p>
 
-> ##### 1.0.2 (March 27, 2018)
->
-> - Changed **MTProto** server backend from unstable **RUST/mio** to **NodeJS**
-> - Added **your own server** instructions links for *\*nix/Windows*
-> 
-> ##### 1.0.1 (May 25, 2018)
-> 
-> - **SOCKS5** proxy port mapped to **123** *(default for NTP service)*
-> - **MTProto** port mapped to **143** *(default for IMAP service)*
-> - Changed **MTProto** server backend from overloading **PHP** to **RUST/mio**
-> 
-> ##### 1.0.0 (May 24, 2018)
-> 
-> - Project started
+##### 1.0.2 (March 27, 2018)
+- Changed **MTProto** server backend from unstable **RUST/mio** to **NodeJS**
+- Added **your own server** instructions links for *\*nix/Windows*
+
+##### 1.0.1 (May 25, 2018)
+- **SOCKS5** proxy port mapped to **123** *(default for NTP service)*
+- **MTProto** port mapped to **143** *(default for IMAP service)*
+- Changed **MTProto** server backend from overloading **PHP** to **RUST/mio**
+
+##### 1.0.0 (May 24, 2018)
+- Project started
   
 </p>
 </details>
@@ -45,8 +42,32 @@ Changelog
 
 ---
 
-### Updating MTProxies list by various contributors
-<a href="#" target="_blank" alt="MTProxies list">Coming soon</a>
+### Proxies list by various contributors
+<details>
+<summary>
+<b>
+MTProto
+</b>
+</summary>
+<p>
+
+- <a href="#" target="_blank" alt="MTProxies list">Coming soon</a>
+  
+</p>
+</details>
+
+<details>
+<summary>
+<b>
+SOCKS5
+</b>
+</summary>
+<p>
+
+- <a href="#" target="_blank" alt="MTProxies list">Coming soon</a>
+  
+</p>
+</details>
 
 ---
 
