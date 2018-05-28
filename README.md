@@ -56,11 +56,6 @@ Changelog
 ---
 
 ### Proxies list by various contributors
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js">
-
-</script>
-
 <details>
 <summary>
 <b>
@@ -70,59 +65,59 @@ MTProto
 
 <p>
 <ul>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=37.187.151.235&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">37.187.151.235</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=109.169.71.41&port=18580&secret=49f68a5c8493ec2c0bf489821c21fc3b" id="copyprx">109.169.71.41</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=128.199.37.140&port=1984&secret=4bb74ed3028a808d71b00965383b5fa7" id="copyprx">128.199.37.140</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=138.201.67.36&port=2233&secret=6f74f117b23441e6b44d8397e5bc1ca0" id="copyprx">138.201.67.36</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=144.76.47.74&port=6669&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">144.76.47.74</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=148.251.137.11&port=6959&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">148.251.137.11</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=148.251.137.11&port=6963&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">148.251.137.11</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=148.251.137.11&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">148.251.137.11</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=149.28.122.5&port=6666&secret=2f48d096262c492ab13342e9bceee717" id="copyprx">149.28.122.5</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=149.28.122.5&port=8080&secret=a2d1649c36744f51bc27a82f37a80e38" id="copyprx">149.28.122.5</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=159.69.9.56&port=80&secret=9b3a45feab68440bb007a2d8579308f8" id="copyprx">159.69.9.56</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=163.172.167.189&port=6666&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">163.172.167.189</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=172.22.45.75&port=6666&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">172.22.45.75</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=178.32.129.18&port=2222&secret=9526e544a4a74c69a777e3f714ac3646" id="copyprx">178.32.129.18</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=178.32.129.18&port=2223&secret=9526e544a4a74c69a777e3f714ac3646" id="copyprx">178.32.129.18</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=185.227.69.3&port=443&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">185.227.69.3</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=185.227.69.3&port=443&secret=d636e890f9e37198854839fb7e2719ac" id="copyprx">185.227.69.3</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=192.3.41.182&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">192.3.41.182</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=195.201.188.12&port=6969&secret=579bc2edf1274c49b07a2813193b1eda" id="copyprx">195.201.188.12</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=195.201.188.12&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">195.201.188.12</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=195.201.194.114&port=33445&secret=fd016c156ffc4409b8318a34b97ffb4e" id="copyprx">195.201.194.114</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=199.48.176.122&port=6969&secret=c53a3eae90544e68a37cbe41c5d31442" id="copyprx">199.48.176.122</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=212.237.33.110&port=6081&secret=d8140188e930c1ff304bd297603b7ec7" id="copyprx">212.237.33.110</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=213.133.100.169&port=6060&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">213.133.100.169</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=213.32.113.231&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">213.32.113.231</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=221.194.4.225&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">221.194.4.225</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=35.201.205.68&port=9487&secret=7c8b14f05c262263d245109fac1e38c8" id="copyprx">35.201.205.68</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=46.4.213.147&port=6969&secret=7c1dfe03eb2345c2ac4632c15dfba3ec" id="copyprx">46.4.213.147</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=5.9.171.107&port=6969&secret=e4471e4df0114ccd83734c9825aac517" id="copyprx">5.9.171.107</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=51.255.135.42&port=2020&secret=f2692017e9b74827b8be86b7863455de" id="copyprx">51.255.135.42</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=51.255.58.92&port=80&secret=59b97a1f78a828dcf4c812b87065ac70" id="copyprx">51.255.58.92</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=52.178.44.143&port=3133&secret=c711a32a26a38fdfd81ed984ee7a1f15" id="copyprx">52.178.44.143</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=62.210.73.58&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd" id="copyprx">62.210.73.58</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=62.210.93.229&port=6969&secret=c53a3eae90544e68a37cbe41c5d31442" id="copyprx">62.210.93.229</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=85.10.222.24&port=6363&secret=a506100ea9ba47559a5cccbdfc9328d6" id="copyprx">85.10.222.24</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=85.10.222.26&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">85.10.222.26</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=88.206.22.160&port=35295&secret=0af9964dc8540ea6f1eef1150bb3a717" id="copyprx">88.206.22.160</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=88.99.241.44&port=4740&secret=31afa68f1ae44e6d833452e303027793" id="copyprx">88.99.241.44</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=89.34.98.168&port=18580&secret=49f68a5c8493ec2c0bf489821c21fc3b" id="copyprx">89.34.98.168</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=94.130.241.123&port=4740&secret=31afa68f1ae44e6d833452e303027793" id="copyprx">94.130.241.123</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=94.130.241.123&port=6969&secret=31afa68f1ae44e6d833452e303027793" id="copyprx">94.130.241.123</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=94.177.250.52&port=6000&secret=8a41e0366dcd5d375e180259fb30b8c0" id="copyprx">94.177.250.52</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=95.216.57.181&port=8569&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">95.216.57.181</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=95.216.7.10&port=6969&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">95.216.7.10</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=95.216.7.17&port=6969&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">95.216.7.17</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=akgov.tgproxy.network&port=8443&secret=726564736869656c6476706e2e636f6d" id="copyprx">akgov.tgproxy.network</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=fra1.mtproto.host&port=443&secret=991646e1ac80b45ad41730bf62fc97b3" id="copyprx">fra1.mtproto.host</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=freevpn.tropico.space&port=443&secret=8395e05332eadecfc3cc61f2eaa63bd6" id="copyprx">freevpn.tropico.space</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e" id="copyprx">proxy.digitalresistance.dog</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=proxy.hellrobot.me&port=6969&secret=d41d8cd98f00b204e9800998ecf8427e" id="copyprx">proxy.hellrobot.me</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=s4.rmmusix.com&port=27010&secret=c22f1b114a704bdfa375c1ac5264a1db" id="copyprx">s4.rmmusix.com</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=sean.taipei&port=9487&secret=7c8b14f05c262263d245109fac1e38c8" id="copyprx">sean.taipei</a></li>
-<li><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=t.lebster.me&port=6666&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">t.lebster.me</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=37.187.151.235&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">37.187.151.235</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=109.169.71.41&port=18580&secret=49f68a5c8493ec2c0bf489821c21fc3b" id="copyprx">109.169.71.41</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=128.199.37.140&port=1984&secret=4bb74ed3028a808d71b00965383b5fa7" id="copyprx">128.199.37.140</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=138.201.67.36&port=2233&secret=6f74f117b23441e6b44d8397e5bc1ca0" id="copyprx">138.201.67.36</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=144.76.47.74&port=6669&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">144.76.47.74</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=148.251.137.11&port=6959&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">148.251.137.11</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=148.251.137.11&port=6963&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">148.251.137.11</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=148.251.137.11&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">148.251.137.11</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=149.28.122.5&port=6666&secret=2f48d096262c492ab13342e9bceee717" id="copyprx">149.28.122.5</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=149.28.122.5&port=8080&secret=a2d1649c36744f51bc27a82f37a80e38" id="copyprx">149.28.122.5</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=159.69.9.56&port=80&secret=9b3a45feab68440bb007a2d8579308f8" id="copyprx">159.69.9.56</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=163.172.167.189&port=6666&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">163.172.167.189</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=172.22.45.75&port=6666&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">172.22.45.75</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=178.32.129.18&port=2222&secret=9526e544a4a74c69a777e3f714ac3646" id="copyprx">178.32.129.18</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=178.32.129.18&port=2223&secret=9526e544a4a74c69a777e3f714ac3646" id="copyprx">178.32.129.18</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=185.227.69.3&port=443&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">185.227.69.3</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=185.227.69.3&port=443&secret=d636e890f9e37198854839fb7e2719ac" id="copyprx">185.227.69.3</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=192.3.41.182&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">192.3.41.182</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=195.201.188.12&port=6969&secret=579bc2edf1274c49b07a2813193b1eda" id="copyprx">195.201.188.12</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=195.201.188.12&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">195.201.188.12</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=195.201.194.114&port=33445&secret=fd016c156ffc4409b8318a34b97ffb4e" id="copyprx">195.201.194.114</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=199.48.176.122&port=6969&secret=c53a3eae90544e68a37cbe41c5d31442" id="copyprx">199.48.176.122</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=212.237.33.110&port=6081&secret=d8140188e930c1ff304bd297603b7ec7" id="copyprx">212.237.33.110</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=213.133.100.169&port=6060&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">213.133.100.169</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=213.32.113.231&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">213.32.113.231</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=221.194.4.225&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">221.194.4.225</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=35.201.205.68&port=9487&secret=7c8b14f05c262263d245109fac1e38c8" id="copyprx">35.201.205.68</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=46.4.213.147&port=6969&secret=7c1dfe03eb2345c2ac4632c15dfba3ec" id="copyprx">46.4.213.147</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=5.9.171.107&port=6969&secret=e4471e4df0114ccd83734c9825aac517" id="copyprx">5.9.171.107</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=51.255.135.42&port=2020&secret=f2692017e9b74827b8be86b7863455de" id="copyprx">51.255.135.42</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=51.255.58.92&port=80&secret=59b97a1f78a828dcf4c812b87065ac70" id="copyprx">51.255.58.92</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=52.178.44.143&port=3133&secret=c711a32a26a38fdfd81ed984ee7a1f15" id="copyprx">52.178.44.143</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=62.210.73.58&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd" id="copyprx">62.210.73.58</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=62.210.93.229&port=6969&secret=c53a3eae90544e68a37cbe41c5d31442" id="copyprx">62.210.93.229</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=85.10.222.24&port=6363&secret=a506100ea9ba47559a5cccbdfc9328d6" id="copyprx">85.10.222.24</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=85.10.222.26&port=6969&secret=b0cbcef5a486d9636472ac27f8e11a9d" id="copyprx">85.10.222.26</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=88.206.22.160&port=35295&secret=0af9964dc8540ea6f1eef1150bb3a717" id="copyprx">88.206.22.160</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=88.99.241.44&port=4740&secret=31afa68f1ae44e6d833452e303027793" id="copyprx">88.99.241.44</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=89.34.98.168&port=18580&secret=49f68a5c8493ec2c0bf489821c21fc3b" id="copyprx">89.34.98.168</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=94.130.241.123&port=4740&secret=31afa68f1ae44e6d833452e303027793" id="copyprx">94.130.241.123</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=94.130.241.123&port=6969&secret=31afa68f1ae44e6d833452e303027793" id="copyprx">94.130.241.123</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=94.177.250.52&port=6000&secret=8a41e0366dcd5d375e180259fb30b8c0" id="copyprx">94.177.250.52</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=95.216.57.181&port=8569&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">95.216.57.181</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=95.216.7.10&port=6969&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">95.216.7.10</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=95.216.7.17&port=6969&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">95.216.7.17</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=akgov.tgproxy.network&port=8443&secret=726564736869656c6476706e2e636f6d" id="copyprx">akgov.tgproxy.network</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=fra1.mtproto.host&port=443&secret=991646e1ac80b45ad41730bf62fc97b3" id="copyprx">fra1.mtproto.host</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=freevpn.tropico.space&port=443&secret=8395e05332eadecfc3cc61f2eaa63bd6" id="copyprx">freevpn.tropico.space</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e" id="copyprx">proxy.digitalresistance.dog</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=proxy.hellrobot.me&port=6969&secret=d41d8cd98f00b204e9800998ecf8427e" id="copyprx">proxy.hellrobot.me</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=s4.rmmusix.com&port=27010&secret=c22f1b114a704bdfa375c1ac5264a1db" id="copyprx">s4.rmmusix.com</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=sean.taipei&port=9487&secret=7c8b14f05c262263d245109fac1e38c8" id="copyprx">sean.taipei</a></li>
+<li style="list-style-type: none;"><button class="btn" data-clipboard-target="#copyprx">📋&nbsp;</button><a href="tg://proxy?server=t.lebster.me&port=6666&secret=4b3e3c2f99046f92a61bab6775848577" id="copyprx">t.lebster.me</a></li>
 </ul>
 </p>
 
