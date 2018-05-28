@@ -61,7 +61,7 @@ Changelog
 
 ---
 
-### Proxies list by various contributors
+### <a href="tg://resolve?domain=TONprx">Proxies list by various contributors</a>
 <details>
 <summary>
 <b>
