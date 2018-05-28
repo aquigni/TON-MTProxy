@@ -44,7 +44,7 @@ Changelog
 
 ---
 
-### ![Build](https://a-u.me/img/github/code32.svg) Build your own proxy server
+### Build your own proxy server
 * **MTProto:**
   * ![Linux](https://a-u.me/img/github/24lin.svg) ![Windows](https://a-u.me/img/github/24win.svg)  [NodeJS server for Linux](tg://resolve?domain=MTProxy&post=72) & [for Windows](tg://resolve?domain=MTProxy&post=85) by <b>FreedomPrevails</b>
   * ![Linux](https://a-u.me/img/github/24lin.svg) ![macOS](https://a-u.me/img/github/24ios.svg) <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution</a> by <b>dotcypress</b>
@@ -55,7 +55,7 @@ Changelog
 
 ---
 
-### ![List](https://a-u.me/img/github/list32.svg) Proxies list by various contributors
+### Proxies list by various contributors
 <details>
 <summary>
 <b>
@@ -88,16 +88,16 @@ SOCKS5
 
 ---
 
-### ![Apps](https://a-u.me/img/github/tg32.svg) Telegram apps download links
-* ![iOS](https://a-u.me/img/github/24ios.svg)  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X</i></a>
-* ![Android](https://a-u.me/img/github/24android.svg)  <a href="https://play.google.com/apps/testing/org.thunderdog.challegram/" target="_blank" alt="Android"><b>Android</b><sup>β</sup> | <i>X</i></a>
-* ![macOS](https://a-u.me/img/github/24macos.svg)  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native</i></a>
-* ![Windows](https://a-u.me/img/github/24win.svg)  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Windows Portable"><b>Windows</b><sup>α</sup> | <i>TDesktop portable</i></a>
-* ![Linux](https://a-u.me/img/github/24lin.svg)  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Linux"><b>Linux</b><sup>α</sup> | <i>TDesktop</i></a>
+### Telegram apps download links
+* ![iOS](https://a-u.me/img/github/ios.svg)  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X</i></a>
+* ![Android](https://a-u.me/img/github/android.svg)  <a href="https://play.google.com/apps/testing/org.thunderdog.challegram/" target="_blank" alt="Android"><b>Android</b><sup>β</sup> | <i>X</i></a>
+* ![macOS](https://a-u.me/img/github/mac.svg)  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native</i></a>
+* ![Windows](https://a-u.me/img/github/win.svg)  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Windows Portable"><b>Windows</b><sup>α</sup> | <i>TDesktop portable</i></a>
+* ![Linux](https://a-u.me/img/github/lin.svg)  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Linux"><b>Linux</b><sup>α</sup> | <i>TDesktop</i></a>
 
 ---
 
-### ![Donate](https://a-u.me/img/github/btc32.svg) Donate
+### Donate
 <img src="https://img.shields.io/beerpay/hashdog/scrapfy-chrome-extension.svg?style=for-the-badge&label=🍺+BEERWARE&colorA=C39B76&colorB=568584" alt="BEERWARE" />
 
 * <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin
@@ -108,7 +108,7 @@ SOCKS5
 
 ---
 
-### ![Contact](https://a-u.me/img/github/contact32.svg) Contact & Support
+### Contact & Support
 Have any troubles?  
 Check actual info in [my channel.](tg://resolve?domain=Syncrets)
 
