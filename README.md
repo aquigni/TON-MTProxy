@@ -163,6 +163,7 @@ SOCKS5
 <img src="https://img.shields.io/beerpay/hashdog/scrapfy-chrome-extension.svg?style=for-the-badge&label=🍺+BEERWARE&colorA=C39B76&colorB=568584" alt="BEERWARE" />
 
 * <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin</a>
+
   <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a>
 * <a href="https://paypal.me/Arxat/20" target="_blank" alt="PayPal">PayPal</a>
 * <a href="https://ishop.qiwi.com/public/order/embed.action?from=553829&ccy=" target="_blank" alt="QIWI">QIWI</a>
