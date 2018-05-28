@@ -3,8 +3,8 @@
 
 Feel free to use [native MTProto](tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd) proxy and [old stable SOCKS5](tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI) one to connect Telegram *(Telegram Open Network / Open Network in future):*
 
-* [**MTProto** | Modern](tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd)
-* [**SOCKS5** | Old stable](tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI)
+* <a href="tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd"><b>MTProto</b> | Modern</a>
+* <a href="tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI"><b>SOCKS5</b> | Old stable</a>
 
 If you made your own proxy — [share it.](tg://resolve?domain=Glitch) 
 
