@@ -46,7 +46,7 @@ Changelog
 
 ### Build your own proxy server
 * **MTProto:**
-  * ![Linux](https://a-u.me/img/github/lin.svg) ![Windows](https://a-u.me/img/github/win.svg)  [NodeJS server for Linux](tg://resolve?domain=MTProxy&post=72) & [for Windows](tg://resolve?domain=MTProxy&post=85) by <b>FreedomPrevails</b>
+  * ![Linux](https://a-u.me/img/github/lin.svg) ![Windows](https://a-u.me/img/github/win.svg)  [NodeJS server for Linux](tg://resolve?domain=MTProxy&post=72) & [Windows](tg://resolve?domain=MTProxy&post=85) by <b>FreedomPrevails</b>
   * ![Linux](https://a-u.me/img/github/lin.svg) ![macOS](https://a-u.me/img/github/ios.svg) <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution</a> by <b>dotcypress</b>
   * ![Linux](https://a-u.me/img/github/lin.svg) ![macOS](https://a-u.me/img/github/ios.svg)  [PHP version](tg://resolve?domain=MadelineProto&post=348) by <b>danog</b>
   * ![Linux](https://a-u.me/img/github/lin.svg) ![Windows](https://a-u.me/img/github/win.svg)  <a href="https://github.com/TGMTProto/MTProtoProxy" target="_blank" alt="C# MTProxy">C# implementation</a> by <b>TGMTProto</b>
