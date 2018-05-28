@@ -50,6 +50,7 @@ Changelog
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" /> <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution</a> by <b>dotcypress</b></li>
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" />  <a href="tg://resolve?domain=MadelineProto&post=348" alt="PHP">PHP version</a> by <b>danog</b></li>
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/win.svg" />  <a href="https://github.com/TGMTProto/MTProtoProxy" target="_blank" alt="C# MTProxy">C# implementation</a> by <b>TGMTProto</b></li>
+  
 * **SOCKS5:**
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" /> <a href="https://www.inet.no/dante/" target="_blank" alt="SOCKS5 Proxy">Dante</a> by <b>Inferno Nettverk A/S</b></li>
 
