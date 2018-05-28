@@ -5,6 +5,8 @@
 	<meta charset="UTF-8"> {% seo %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#922A53">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+	    crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 
@@ -12,8 +14,10 @@
 	<section class="page-header">
 		<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
 		<h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-		<a href="tg://proxy?server=62.210.73.58&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd" class="btn"><b>MTProto</b> | Modern</a>
-		<a href="tg://socks?server=62.210.73.58&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI" class="btn"><b>SOCKS5</b> | Stable</a>
+		<a href="tg://proxy?server=62.210.73.58&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd" class="btn">
+			<b>MTProto</b> | Modern</a>
+		<a href="tg://socks?server=62.210.73.58&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI" class="btn">
+			<b>SOCKS5</b> | Stable</a>
 	</section>
 
 	<section class="main-content">
@@ -21,21 +25,28 @@
 
 		<footer class="site-footer">
 			<span class="site-footer-owner">
-				©&nbsp;2018–∞&nbsp;Made&nbsp;by&nbsp;<a href="tg://resolve?domain=Glitch">Glitch</a>
+				©&nbsp;2018–∞&nbsp;Made&nbsp;by&nbsp;
+				<a href="tg://resolve?domain=Glitch">Glitch</a>
 			</span>
 		</footer>
 	</section>
-	
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+	    crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+	    crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+	    crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
-	 <script>
+	<script>
 		var clipboard = new ClipboardJS('.btn');
-    	clipboard.on('success', function(e) {
-        	console.log(e);
-    	});
-    	clipboard.on('error', function(e) {
-        	console.log(e);
-    	});
-    </script>
+		clipboard.on('success', function (e) {
+			console.log(e);
+		});
+		clipboard.on('error', function (e) {
+			console.log(e);
+		});
+	</script>
 
 </body>
 
