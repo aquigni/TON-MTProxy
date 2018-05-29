@@ -1,9 +1,10 @@
 ## MTProto & SOCKS5 Telegram proxies
 [![MTProxy Telegram](https://img.shields.io/badge/MTProxy-Telegram-2a9ed8.svg?longCache=true&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxkZWZzPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCB4MT0iNjUuOTclIiB5MT0iNDMuNjklIiB4Mj0iODUuMTIlIiB5Mj0iODAuMjQlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNFRkY3RkMiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI0ZGRkZGRiIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KCQk8cGF0aCBkPSJNODUuMjk4NzU4NCwxNzguMzkwNDk0IEM3OC41NjM5OTQ4LDE3OC4zOTA0OTQgNzkuNzA4Mzk4OCwxNzUuODQ4MTY5IDc3LjM4NTYzNjQsMTY5LjQzNzE5NiBMNTcuNTgwODMwMiwxMDQuMjczNCBMMjEwLjAyOTQzNiwxMy44NTU1NzIzIiBmaWxsPSIjQzhEQUVBIj48L3BhdGg+CgkJPHBhdGggZD0iTTg1LjI5ODc1ODQsMTc4LjM5MDQ5NCBDOTAuNDk1ODcsMTc4LjM5MDQ5NCA5Mi43OTIxMjcxLDE3Ni4wMTQyNjMgOTUuNjkyOTgxNiwxNzMuMTk0NjU0IEwxMjMuNDEwOTEsMTQ2LjI0OTAzIEw4OC44MzYyNTksMTI1LjQwNTA1MyIgZmlsbD0iI0E5QzlERCI+PC9wYXRoPgoJCTxwYXRoIGQ9Ik04OC44MzI3OTQzLDEyNS40MTAyNDkgTDE3Mi42MTAyMzMsMTg3LjI5MDk2NyBDMTgyLjE3MDMxOSwxOTIuNTY0NTcxIDE4OS4wNzAxNzgsMTg5LjgzNDE1NyAxOTEuNDUxNDk0LDE3OC40MTczMzkgTDIyNS41NTMyMDgsMTcuNzU2NzgxOSBDMjI5LjA0NDYyNywzLjc2MjMwNzQ3IDIyMC4yMTczMzMsLTIuNTg0OTMwMjEgMjExLjA3MTYzLDEuNTY2MTk5MjYgTDEwLjgyNjkyMTcsNzguNzYwNzg4NSBDLTIuODQxNjU0OTQsODQuMjQxODc5NyAtMi43NjE5NjU5LDkxLjg2NTczNTIgOC4zMzU0MjY0LDk1LjI2Mjc3NTIgTDU5LjcyMjczMzEsMTExLjI5NzY1NiBMMTc4LjY4OTgxNCwzNi4yNjEwNzE5IEMxODQuMzA1OTg2LDMyLjg1NjIzODIgMTg5LjQ2MDQ4MSwzNC42ODY3NDk5IDE4NS4yMjk4NTksMzguNDQwNTUzNSIgZmlsbD0idXJsKCNsaW5lYXJHcmFkaWVudC0xKSI+PC9wYXRoPgo8L3N2Zz4K&colorA=99B7CC)](tg://resolve?domain=Syncrets)  
 
-Feel free to use [native MTProto](tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd) proxy and [old stable SOCKS5](tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI) one to connect Telegram *(Telegram Open Network / Open Network in future):*
+Feel free to use [native MTProto 1 | C#](tg://proxy?server=mtproto.prx.a-u.me&port=20&secret=b8834715d83cbc486dfce3d440717085), [native MTProto 2 | NodeJS](tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd) proxy and [old stable SOCKS5](tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI) one to connect Telegram *(Telegram Open Network / Open Network in future):*
 
-* <a href="tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd"><b>MTProto</b> | Modern</a>
+* <a href="tg://proxy?server=mtproto.prx.a-u.me&port=20&secret=b8834715d83cbc486dfce3d440717085"><b>MTProto</b> | Modern | C#</a>
+* <a href="tg://proxy?server=mtproto.prx.a-u.me&port=143&secret=9615e2fc5c8c17419a8055ca5b55e9dd"><b>MTProto</b> | Modern | NodeJS</a>
 * <a href="tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI"><b>SOCKS5</b> | Old stable</a>
 
 If you made your own proxy — [share it.](tg://resolve?domain=Glitch) 
@@ -18,6 +19,11 @@ Changelog
 </summary>
 
 <p>
+<h5>1.0.4 (March 29, 2018)</h5>
+<ul>
+<li>Added <b>highspeed C#</b> MTProxy</li>
+</ul>
+
 <h5>1.0.3 (March 28, 2018)</h5>
 <ul>
 <li><b>Main links changed</b></li>
@@ -50,10 +56,10 @@ Changelog
 
 ### Build your own proxy server
 * **MTProto:**
+  <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/win.svg" />  <a href="https://github.com/freepvps/mtproto-proxy" target="_blank" alt="C# MTProxy">C# implementation</a> by <b>freepvps</b></li>
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/win.svg" />  NodeJS server <a href="tg://resolve?domain=MTProxy&post=72" alt="Linux">for Linux</a> & <a href="tg://resolve?domain=MTProxy&post=85" alt="Windows">Windows</a> by <b>FreedomPrevails</b></li>
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" /> <a href="https://github.com/iShift/mtproxy/tree/d93f668a13af038603b2287df5ddc7142f25d1ca" target="_blank" alt="RUST/mio MTProxy">RUST/mio solution</a> by <b>dotcypress</b></li>
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" />  <a href="tg://resolve?domain=MadelineProto&post=348" alt="PHP">PHP version</a> by <b>danog</b></li>
-  <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/win.svg" />  <a href="https://github.com/TGMTProto/MTProtoProxy" target="_blank" alt="C# MTProxy">C# implementation</a> by <b>TGMTProto</b></li>
   <br />
   
 * **SOCKS5:**
@@ -61,7 +67,7 @@ Changelog
 
 ---
 
-### <a href="tg://resolve?domain=TONprx">Proxies list by various contributors</a>
+### <a href="tg://resolve?domain=TONprx">🔗 Proxies list by various contributors</a>
 <details>
 <summary>
 <b>
