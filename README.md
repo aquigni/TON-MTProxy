@@ -119,7 +119,7 @@ SOCKS5
 ### Donate
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/btc.svg" />  <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin</a>
 <br />
-<a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
+  <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/paypal.svg" />  <a href="https://paypal.me/Arxat/20" target="_blank" alt="PayPal">PayPal</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/qiwi.svg" />  <a href="https://ishop.qiwi.com/public/order/embed.action?from=554413&ccy=RUB" target="_blank" alt="QIWI">QIWI</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/yam.svg" />  <a href="https://yasobe.ru/na/mtproxy" target="_blank" alt="Yandex Money">Yandex Money</a></li>
