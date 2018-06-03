@@ -123,6 +123,7 @@ SOCKS5
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/paypal.svg" />  <a href="https://paypal.me/Arxat/20" target="_blank" alt="PayPal">PayPal</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/qiwi.svg" />  <a href="https://ishop.qiwi.com/public/order/embed.action?from=554413&ccy=RUB" target="_blank" alt="QIWI">QIWI</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/yam.svg" />  <a href="https://yasobe.ru/na/mtproxy" target="_blank" alt="Yandex Money">Yandex Money</a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/rocket.svg" />  <a href="https://rocketbank.ru/aquigni" target="_blank" alt="RocketBank">RocketBank</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/patreon.svg" />  <a href="http://patreon.com/Aquigni" target="_blank" alt="Patreon">Patreon</a></li>
 
 ---
