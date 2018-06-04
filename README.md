@@ -109,10 +109,10 @@ SOCKS5
 ---
 
 ### Telegram apps download
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/ios.svg" />  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X | Swift</i></a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/ios.svg" />  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X</i> | <i>Swift</i></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/android.svg" />  <a href="https://play.google.com/store/apps/details?id=org.telegram.messenger/" target="_blank" alt="Android"><b>Android</b></a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/mac.svg" />  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native | Swift</i></a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/win.svg" />  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Windows Portable"><b>Windows</b><sup>α</sup> | <i>TDesktop portable</i></a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/mac.svg" />  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native</i> | <i>Swift</i></a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/win.svg" />  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Windows Portable"><b>Windows</b><sup>α</sup> | <i>TDesktop</i> | <i>Portable</i></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" />  <a href="https://tdesktop.com/linux/current?alpha=1" target="_blank" alt="Linux"><b>Linux</b><sup>α</sup> | <i>TDesktop</i></a></li>
 
 ---
