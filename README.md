@@ -65,7 +65,7 @@ Changelog
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" /> <a href="https://www.inet.no/dante/" target="_blank" alt="SOCKS5 Proxy">Dante</a> by <b>Inferno Nettverk A/S</b></li>
   <br />
 
-  If you made your own proxy — [share it.](tg://resolve?domain=Glitch) 
+  If you made your own proxy — [make pull request.](https://github.com/aquigni/TGProxies/pulls) 
 
 ---
 
@@ -108,12 +108,12 @@ SOCKS5
 
 ---
 
-### Telegram apps download links
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/ios.svg" />  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X</i></a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/android.svg" />  <a href="https://play.google.com/apps/testing/org.thunderdog.challegram/" target="_blank" alt="Android"><b>Android</b><sup>β</sup> | <i>X</i></a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/mac.svg" />  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native</i></a></li>
+### Telegram apps download
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/ios.svg" />  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X | Swift</i></a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/android.svg" />  <a href="https://play.google.com/store/apps/details?id=org.telegram.messenger/" target="_blank" alt="Android"><b>Android</b></a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/mac.svg" />  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native | Swift</i></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/win.svg" />  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Windows Portable"><b>Windows</b><sup>α</sup> | <i>TDesktop portable</i></a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" />  <a href="https://tdesktop.com/win/portable?alpha=1" target="_blank" alt="Linux"><b>Linux</b><sup>α</sup> | <i>TDesktop</i></a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" />  <a href="https://tdesktop.com/linux/current?alpha=1" target="_blank" alt="Linux"><b>Linux</b><sup>α</sup> | <i>TDesktop</i></a></li>
 
 ---
 
@@ -122,9 +122,9 @@ SOCKS5
 <br />
   <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/paypal.svg" />  <a href="https://paypal.me/Arxat/20" target="_blank" alt="PayPal">PayPal</a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/qiwi.svg" />  <a href="https://ishop.qiwi.com/public/order/embed.action?from=554413&ccy=RUB" target="_blank" alt="QIWI">QIWI</a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/qiwi.svg" />  <a href="https://qiwi.me/mtproxy" target="_blank" alt="QIWI">Visa QIWI Wallet</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/yam.svg" />  <a href="https://yasobe.ru/na/mtproxy" target="_blank" alt="Yandex Money">Yandex Money</a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/rocket.svg" />  <a href="https://rocketbank.ru/aquigni" target="_blank" alt="RocketBank">RocketBank</a></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/rocket.svg" />  <a href="https://rocketbank.ru/aquigni" target="_blank" alt="RocketBank">Bank Card</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/patreon.svg" />  <a href="http://patreon.com/Aquigni" target="_blank" alt="Patreon">Patreon</a></li>
 
 ---
