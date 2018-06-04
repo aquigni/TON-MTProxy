@@ -82,6 +82,7 @@ MTProto
 <li style="list-style-type: none;"><button class="btn btn-secondary" style="margin:0;padding:0;" data-clipboard-text="tg://proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e">📋&nbsp;</button><a href="tg://proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e">proxy.digitalresistance.dog</a></li>
 <li style="list-style-type: none;"><button class="btn btn-secondary" style="margin:0;padding:0;" data-clipboard-text="tg://proxy?server=mtp.proxy.mediatube.xyz&port=443&secret=f3f0a2df006d4b4913cc7fd77cc77ffa">📋&nbsp;</button><a href="tg://proxy?server=mtp.proxy.mediatube.xyz&port=443&secret=f3f0a2df006d4b4913cc7fd77cc77ffa">mtp.proxy.mediatube.xyz</a></li>
 <li style="list-style-type: none;"><button class="btn btn-secondary" style="margin:0;padding:0;" data-clipboard-text="tg://proxy?server=telegram.darkfox.info&port=443&secret=4f40612293dcd9ce3b04e6ec19011a58">📋&nbsp;</button><a href="tg://proxy?server=telegram.darkfox.info&port=443&secret=4f40612293dcd9ce3b04e6ec19011a58">telegram.darkfox.info</a></li>
+<li style="list-style-type: none;"><button class="btn btn-secondary" style="margin:0;padding:0;" data-clipboard-text="tg://proxy?server=tarsproto.tk&port=443&secret=b8dbd10be60811f3a04aa9ed634bd7af">📋&nbsp;</button><a href="tg://proxy?server=tarsproto.tk&port=443&secret=b8dbd10be60811f3a04aa9ed634bd7af">TARSProto.tk</a></li>
 </ul>
 </p>
 
