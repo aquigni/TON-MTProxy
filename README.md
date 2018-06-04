@@ -117,7 +117,7 @@ SOCKS5
 
 ---
 
-### Donate
+### Donate and get private MTProxy link!
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/btc.svg" />  <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin</a>
 <br />
   <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
@@ -125,7 +125,7 @@ SOCKS5
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/qiwi.svg" />  <a href="https://qiwi.me/mtproxy" target="_blank" alt="QIWI">Visa QIWI Wallet</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/yam.svg" />  <a href="https://yasobe.ru/na/mtproxy" target="_blank" alt="Yandex Money">Yandex Money</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/rocket.svg" />  <a href="https://rocketbank.ru/aquigni" target="_blank" alt="RocketBank">Bank Card</a></li>
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/patreon.svg" />  <a href="https://www.patreon.com/bePatron?c=1806893" target="_blank" alt="Patreon">Patreon</a>&nbsp;<i>&mdash; get private MTProxy link!</i></li>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/patreon.svg" />  <a href="https://www.patreon.com/bePatron?c=1806893" target="_blank" alt="Patreon">Patreon</a></li>
 
 ---
 
