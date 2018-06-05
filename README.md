@@ -1,7 +1,7 @@
-## MTProto & SOCKS5 Telegram proxies
+## MTProto & SOCKS5 TON proxies
 [![MTProxy Telegram](https://img.shields.io/badge/MTProxy-Telegram-2a9ed8.svg?longCache=true&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxkZWZzPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCB4MT0iNjUuOTclIiB5MT0iNDMuNjklIiB4Mj0iODUuMTIlIiB5Mj0iODAuMjQlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNFRkY3RkMiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI0ZGRkZGRiIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KCQk8cGF0aCBkPSJNODUuMjk4NzU4NCwxNzguMzkwNDk0IEM3OC41NjM5OTQ4LDE3OC4zOTA0OTQgNzkuNzA4Mzk4OCwxNzUuODQ4MTY5IDc3LjM4NTYzNjQsMTY5LjQzNzE5NiBMNTcuNTgwODMwMiwxMDQuMjczNCBMMjEwLjAyOTQzNiwxMy44NTU1NzIzIiBmaWxsPSIjQzhEQUVBIj48L3BhdGg+CgkJPHBhdGggZD0iTTg1LjI5ODc1ODQsMTc4LjM5MDQ5NCBDOTAuNDk1ODcsMTc4LjM5MDQ5NCA5Mi43OTIxMjcxLDE3Ni4wMTQyNjMgOTUuNjkyOTgxNiwxNzMuMTk0NjU0IEwxMjMuNDEwOTEsMTQ2LjI0OTAzIEw4OC44MzYyNTksMTI1LjQwNTA1MyIgZmlsbD0iI0E5QzlERCI+PC9wYXRoPgoJCTxwYXRoIGQ9Ik04OC44MzI3OTQzLDEyNS40MTAyNDkgTDE3Mi42MTAyMzMsMTg3LjI5MDk2NyBDMTgyLjE3MDMxOSwxOTIuNTY0NTcxIDE4OS4wNzAxNzgsMTg5LjgzNDE1NyAxOTEuNDUxNDk0LDE3OC40MTczMzkgTDIyNS41NTMyMDgsMTcuNzU2NzgxOSBDMjI5LjA0NDYyNywzLjc2MjMwNzQ3IDIyMC4yMTczMzMsLTIuNTg0OTMwMjEgMjExLjA3MTYzLDEuNTY2MTk5MjYgTDEwLjgyNjkyMTcsNzguNzYwNzg4NSBDLTIuODQxNjU0OTQsODQuMjQxODc5NyAtMi43NjE5NjU5LDkxLjg2NTczNTIgOC4zMzU0MjY0LDk1LjI2Mjc3NTIgTDU5LjcyMjczMzEsMTExLjI5NzY1NiBMMTc4LjY4OTgxNCwzNi4yNjEwNzE5IEMxODQuMzA1OTg2LDMyLjg1NjIzODIgMTg5LjQ2MDQ4MSwzNC42ODY3NDk5IDE4NS4yMjk4NTksMzguNDQwNTUzNSIgZmlsbD0idXJsKCNsaW5lYXJHcmFkaWVudC0xKSI+PC9wYXRoPgo8L3N2Zz4K&colorA=99B7CC)](tg://resolve?domain=Syncrets)  
 
-Feel free to use <a href="tg://proxy?server=public.mtproto.prx.a-u.me&port=143&secret=c1e144c2d14123a3a7439268c492d62d"><b>Official MTProto</b></a> proxy and <a href="tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI"><b>oldstable SOCKS5</b></a> one to connect Telegram <i>(Telegram Open Network / Open Network in future):</i>
+Feel free to use <a href="tg://proxy?server=public.mtproto.prx.a-u.me&port=143&secret=c1e144c2d14123a3a7439268c492d62d"><b>Official MTProto</b></a> proxy and <a href="tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI"><b>oldstable SOCKS5</b></a> one to connect <b>TON</b> <i>(Open Network in future):</i>
 
 * <a href="tg://proxy?server=public.mtproto.prx.a-u.me&port=143&secret=c1e144c2d14123a3a7439268c492d62d"><b>MTProto</b> | Official</a>
 * <a href="tg://socks?server=socks5.prx.a-u.me&port=123&user=prx&pass=hHQ0nVmI2kI4Gf52OZhULAQI"><b>SOCKS5</b> | Oldstable</a>
@@ -108,7 +108,7 @@ SOCKS5
 
 ---
 
-### Telegram apps download
+### Apps download
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/ios.svg" />  <a href="https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63" target="_blank" alt="iOS"><b>iOS</b><sup>β</sup> | <i>X</i> | <i>Swift</i></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/android.svg" />  <a href="https://play.google.com/store/apps/details?id=org.telegram.messenger/" target="_blank" alt="Android"><b>Android</b></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/mac.svg" />  <a href="https://rink.hockeyapp.net/apps/6ed2ac3049e1407387c2f1ffcb74e81f" target="_blank" alt="macOS"><b>macOS</b><sup>β</sup> | <i>Native</i> | <i>Swift</i></a></li>
@@ -117,7 +117,7 @@ SOCKS5
 
 ---
 
-### Donate and get private MTProxy link!
+### Donate and get private faster MTProxy link!
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/btc.svg" />  <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin</a>
 <br />
   <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
@@ -131,6 +131,4 @@ SOCKS5
 
 ### Contact & Support
 Have any troubles?  
-Check actual info in [my channel.](tg://resolve?domain=Syncrets)
-
-<a href="https://a-u.me/contact/" target="_blank" alt="Contact">Contact me via other services.</a>
+Check actual info in [Syncrets channel.](tg://resolve?domain=Syncrets)
