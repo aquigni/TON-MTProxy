@@ -61,6 +61,44 @@ Changelog
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/docker.svg" />  <a href="https://github.com/TelegramMessenger/MTProxy" target="_blank" alt="Official MTProxy">Official MTProto</a> by <b>TelegramMessenger</b></li>
   <br />
   
+		USAGE:
+
+		./mtproto-proxy [-v] [-6] [-p<port>] [-H<http-port>{,<http-port>}] [-M<workers>] [-u<username>] [-b<backlog>] [-c<max-conn>] [-l<log-name>] [-W<window-size>] <config-file>
+
+		--ipv6/-6                          	enables ipv6 TCP/UDP support
+		--max-special-connections/-C <arg> 	sets maximal number of accepted client connections per worker
+		--http-ports/-H <arg>              	comma-separated list of client (HTTP) ports to listen
+		--slaves/-M <arg>                  	spawn several slave workers
+		--proxy-tag/-P <arg>               	16-byte proxy tag in hex mode to be passed along with all forwarded queries
+		--mtproto-secret/-S <arg>          	16-byte secret in hex mode
+		--ping-interval/-T <arg>           	sets ping interval in second for local TCP connections (default 5.000)
+		--window-clamp/-W <arg>            	sets window clamp for client TCP connections
+		--backlog/-b <arg>                 	sets backlog size
+		--connections/-c <arg>             	sets maximal connections number
+		--daemonize/-d {arg}               	changes between daemonize/not daemonize mode
+		--help/-h                          	prints help and exits
+		--log/-l <arg>                     	sets log file name
+		--port/-p <arg>                    	<port> or <sport>:<eport> sets listening port number or port range
+		--user/-u <arg>                    	sets user name to make setuid
+		--verbosity/-v {arg}               	sets or increases verbosity level
+		--aes-pwd <arg>                    	sets custom secret.conf file
+		--nice <arg>                       	sets niceness
+		--msg-buffers-size <arg>           	sets maximal buffers size (default 268435456)
+		--disable-tcp                      	do not open listening tcp socket
+		--crc32c                           	Try to use crc32c instead of crc32 in tcp rpc
+		--cpu-threads <arg>                	Number of CPU threads (1-64, default 8)
+		--io-threads <arg>                 	Number of I/O threads (1-64, default 16)
+		--allow-skip-dh                    	Allow skipping DH during RPC handshake
+		--force-dh                         	Force using DH for all outbound RPC connections
+		--max-accept-rate <arg>            	max number of connections per second that is allowed to accept
+		--max-dh-accept-rate <arg>         	max number of DH connections per second that is allowed to accept
+		--multithread {arg}                	run in multithread mode
+		--tcp-cpu-threads <arg>            	number of tcp-cpu threads
+		--tcp-iothreads <arg>              	number of tcp-io threads
+		--nat-info <arg>                   	<local-addr>:<global-addr>	sets network address translation for RPC protocol handshake
+		--address <arg>                    	tries to bind socket only to specified address
+  <br />
+  
 * **SOCKS5:**
   <li style="list-style-type: none;"><img src="https://a-u.me/img/github/lin.svg" /> <img src="https://a-u.me/img/github/ios.svg" /> <a href="https://www.inet.no/dante/" target="_blank" alt="SOCKS5 Proxy">Dante</a> by <b>Inferno Nettverk A/S</b></li>
   <br />
