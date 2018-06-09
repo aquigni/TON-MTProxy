@@ -1,0 +1,3 @@
+[submodule "MTProxySystemd"]
+	path = MTProxySystemd
+	url = https://github.com/aquigni/MTProxySystemd.git
