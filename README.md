@@ -156,9 +156,9 @@ SOCKS5
 ---
 
 ### Donate and get private faster MTProxy link!
-<li style="list-style-type: none;"><img src="https://a-u.me/img/github/btc.svg" />  <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin</a>
+<li style="list-style-type: none;"><img src="https://a-u.me/img/github/btc.svg" />  <a href="bitcoin:1FFX6LndvFqJ62FWmRE8xt2N5NzegNn5af?amount=0.003&message=Thnx4TGProxy" target="_blank" alt="Bitcoin">Bitcoin</a>
 <br />
-  <a href="bitcoin:13TaJ165Grj1VoHH4ZX6jtpvGscQZRvXic?amount=0.002&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
+  <a href="bitcoin:1FFX6LndvFqJ62FWmRE8xt2N5NzegNn5af?amount=0.003&message=Thnx4TGProxy" target="_blank" alt="Bitcoin"><img src="https://a-u.me/0/smzx7.png" alt="Bitcoin"></a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/paypal.svg" />  <a href="https://paypal.me/Arxat/20" target="_blank" alt="PayPal">PayPal</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/qiwi.svg" />  <a href="https://qiwi.me/mtproxy" target="_blank" alt="QIWI">Visa QIWI Wallet</a></li>
 <li style="list-style-type: none;"><img src="https://a-u.me/img/github/yam.svg" />  <a href="https://yasobe.ru/na/mtproxy" target="_blank" alt="Yandex Money">Yandex Money</a></li>
